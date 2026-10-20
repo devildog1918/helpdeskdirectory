@@ -1,4 +1,4 @@
-# RP Department Directory
+# Department Directory
 
 Standalone static PWA for Tech Support contacts. Upload the contents of this folder to a GitHub Pages repository and enable Pages from the root of the main branch.
 
