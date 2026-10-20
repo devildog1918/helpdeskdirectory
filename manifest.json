@@ -1,6 +1,6 @@
 {
-  "name": "RP Department Directory",
-  "short_name": "RP Directory",
+  "name": "Tech Support Directory",
+  "short_name": "Directory",
   "start_url": "./",
   "scope": "./",
   "display": "standalone",
